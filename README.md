@@ -287,6 +287,8 @@ Example `sample_output.json`:
 Requires opencv-contrib-python for Selective Search.
 
 First run may train model if classifier.pth does not exist.
+However the classifier.pth model 🔗link is provided in 
+models folder📁 --> classifier_drive_path.pth 📝
 
 Training time: 2–5 minutes on CPU.
 
