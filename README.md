@@ -313,12 +313,3 @@ Human & Animal Detection – Offline Vision System
 Assignment Submission
 
 
----
-
-If you want, I can also generate:
-
-- 📄 Professional Documentation (DOC/PDF content)
-- 📦 Final Submission Checklist Summary
-- ⭐ GitHub-ready version with badges and formatting
-
-Just tell me.
