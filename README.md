@@ -17,29 +17,23 @@ The system detects and classifies Humans and Animals in images using classical c
 
 ---
 
-# 📂 Project Structure
-
+```bash
 project/
 ├── datasets/
-│ └── train/
-│ ├── human/
-│ └── animal/
-│
+│   └── train/
+│       ├── human/
+│       └── animal/
 ├── models/
-│ └── classifier.pth
-│
+│   └── classifier.pth
 ├── test_videos/
-│
 ├── outputs/
-│ ├── output_image.jpg
-│ └── sample_output.json
-│
+│   ├── output_image.jpg
+│   └── sample_output.json
 ├── main.py
 ├── app.py
 ├── requirements.txt
 └── README.md
-
-
+```
 ---
 
 # 🧠 Dataset Justification
