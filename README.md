@@ -26,10 +26,10 @@ project/
 ├── models/
 │   └── classifier.pth
 ├── test_videos/
+│   └── sample_inputs.jpg/mp4
 ├── outputs/
 │   ├── output_image.jpg
 │   └── sample_output.json
-├── main.py
 ├── app.py
 ├── requirements.txt
 └── README.md
